@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Back-end 💻<br>- Graduado em Ciência da Computação 🎓<br>- Atualmente estudando Flask<br>- Buscando a minha primeira oportunidade 🙏<br><br>Sempre fui uma pessoa que gostou de computadores, influenciado por meu tio, decidi ingressar nessa área onde no primeiro contato me apaixonei com as inúmeras possibilidades que esse meio proporciona.<br><br>Meu principal objetivo tem sido a integração ao mercado de trabalho como programador Junior. Entre em contato comigo através do:<br><br>- Email: pedrobotteon123@gmail.com<br>- Celular: (19) 99517-1798</p>
+<p align="left">- Desenvolvedor 💻<br>- Graduado em Ciência da Computação 🎓<br>- Atualmente estudando Flask<br>- Buscando a minha primeira oportunidade 🙏<br><br>Sempre fui uma pessoa que gostou de computadores, influenciado por meu tio, decidi ingressar nessa área onde no primeiro contato me apaixonei com as inúmeras possibilidades que esse meio proporciona.<br><br>Meu principal objetivo tem sido a integração ao mercado de trabalho como programador Junior. Entre em contato comigo através do:<br><br>- Email: pedrobotteon123@gmail.com<br>- Celular: (19) 99517-1798</p>
 
 ###
 
