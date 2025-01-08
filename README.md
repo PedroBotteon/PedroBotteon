@@ -1,26 +1,8 @@
-<h2 align="left">About me</h2>
+<h2 align="left">Olá, me chamo Pedro</h2>
 
 ###
 
-<p align="left">- Sou formado em Ciência da Cmmputação<br>- Estudando cada vez mais rumo ai primeiro emprego de dev</p>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-</div>
+<p align="left">- Desenvolvedor Back-end 💻<br>- Graduado em Ciência da Computação 🎓<br>- Atualmente estudando Flask<br>- Buscando a minha primeira oportunidade 🙏<br><br>Sempre fui uma pessoa que gostou de computadores, influenciado por meu tio, decidi ingressar nessa área onde no primeiro contato me apaixonei com as inúmeras possibilidades que esse meio proporciona.<br><br>Meu principal objetivo tem sido a integração ao mercado de trabalho como programador Junior. Entre em contato comigo através do:<br><br>- Email: pedrobotteon123@gmail.com<br>- Celular: (19) 99517-1798</p>
 
 ###
 
@@ -36,11 +18,35 @@
 
 ###
 
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+</div>
+
+###
+
 <h2 align="left">Social Media</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/pedro-botteon-60518a258" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
