@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor 💻<br>- Graduado em Ciência da Computação 🎓<br>- Atualmente estudando Flask<br>- Buscando a minha primeira oportunidade 🙏<br><br>Sempre fui uma pessoa que gostou de computadores, influenciado por meu tio, decidi ingressar nessa área onde no primeiro contato me apaixonei com as inúmeras possibilidades que esse meio proporciona.<br><br>Meu principal objetivo tem sido a integração ao mercado de trabalho como programador Junior. Entre em contato comigo através do:<br><br>- Email: pedrobotteon123@gmail.com<br>- Celular: (19) 99517-1798</p>
+<p align="left">- Desenvolvedor Back-end 💻<br>- Graduado em Ciência da Computação 🎓<br>- Atualmente estudando Flask<br>- Buscando a minha primeira oportunidade 🙏<br><br>Sempre fui uma pessoa que gostou de computadores, influenciado por meu tio, decidi ingressar nessa área onde no primeiro contato me apaixonei com as inúmeras possibilidades que esse meio proporciona.<br><br>Meu principal objetivo tem sido a integração ao mercado de trabalho como programador Junior. Entre em contato comigo através do:<br><br>- Email: pedrobotteon123@gmail.com<br>- Celular: (19) 99517-1798</p>
 
 ###
 
@@ -48,10 +48,10 @@
 
 <div align="center">
   <a href="www.linkedin.com/in/pedro-botteon-60518a258" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/pedrobotteon/profilecard/?igsh=emZqNXNxbjZyaXBx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
 
